@@ -3,6 +3,8 @@
   "displayName": "LuaSTGPlus Extension",
   "description": "Running LuaSTG games in vscode",
   "version": "0.0.1",
+  "repository": "https://github.com/LuaSTG/LuaSTGPlusCodeExtension",
+  "publisher": "LuaSTG",
   "engines": {
     "vscode": "^1.71.0"
   },
